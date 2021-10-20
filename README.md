@@ -13,6 +13,7 @@
 * 3392,Technique Leader
 * 1305,Assistant Engineer
 * 1,Manager
+* ![GitHub Graph](https://github.com/tpatel0107/Pewlett-Hackard-Analysis/blob/main/retirement%20count%20and%20titles.PNG?raw=true)
 
 ## Summary ##
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight
