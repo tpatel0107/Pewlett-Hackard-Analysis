@@ -1,8 +1,8 @@
 # Pewlett-Hackard-Analysis
- ##Overview
+ ## Overview ##
    Purpose of analysis is to determine the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 
-##Results
+## Results ##
 
 *From the finding of the eligible retirees, High Percentage of the workforce could retire at any given time.
 *From the job titles of the eligible retirees, the breakdown is below.
@@ -14,7 +14,7 @@
 *1305,Assistant Engineer
 *1,Manager
 
-##Summary
+## Summary ##
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight
 1) How many roles will need to be filled as the "silver tsunami" begins to make an impact?.
 67,366 roles are in urgent need to be filled out as soon as the workforce starts retiring at any given time.
