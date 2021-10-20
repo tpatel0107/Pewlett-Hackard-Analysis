@@ -5,14 +5,14 @@
 ## Results ##
 
 * From the finding of the eligible retirees, High Percentage of the workforce could retire at any given time.
-*From the job titles of the eligible retirees, the breakdown is below.
-*21776,Senior Engineer
-*21077,Senior Staff
-*10620,Engineer
-*9195,Staff
-*3392,Technique Leader
-*1305,Assistant Engineer
-*1,Manager
+* From the job titles of the eligible retirees, the breakdown is below.
+* 21776,Senior Engineer
+* 21077,Senior Staff
+* 10620,Engineer
+* 9195,Staff
+* 3392,Technique Leader
+* 1305,Assistant Engineer
+* 1,Manager
 
 ## Summary ##
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight
