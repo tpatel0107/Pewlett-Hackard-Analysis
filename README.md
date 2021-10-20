@@ -22,20 +22,4 @@ The summary addresses the two questions and contains two additional queries or t
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 Yes, we have 90,398  employees who are eligible to participate in a mentorship program.
-
---Write a query to create a Mentorship Eligibility table that holds the employees who are eligible to participate in a mentorship program. 
-SELECT DISTINCT ON(e.emp_no)e.emp_no,
-	e.first_name,
-	e.last_name,
-	e.birth_date,
-	de.from_date,
-	de.to_date,
-	t.title
---INTO mentorship_eligibilty
-FROM employees as e
-Left outer Join dept_emp as de
-ON (e.emp_no = de.emp_no)
-Left outer Join titles as t
-ON (e.emp_no = t.emp_no)
-WHERE (e.birth_date BETWEEN '1952-01-01' AND '1955-12-31')
-ORDER BY e.emp_no;
+M![picture alt](C:\Users\taran\OneDrive\Desktop\Module 7\Pewlett-Hackard-Analysis)
