@@ -22,4 +22,4 @@ The summary addresses the two questions and contains two additional queries or t
 2) Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 Yes, we have 90,398  employees who are eligible to participate in a mentorship program.
-M![picture alt](C:\Users\taran\OneDrive\Desktop\Module 7\Pewlett-Hackard-Analysis)
+M![](C:\Users\taran\OneDrive\Desktop\Module 7\Pewlett-Hackard-Analysis)
