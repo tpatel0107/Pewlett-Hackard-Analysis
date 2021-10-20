@@ -24,4 +24,4 @@ The summary addresses the two questions and contains two additional queries or t
 Yes, we have 90,398  employees who are eligible to participate in a mentorship program.
 
 
-![GitHub Graph]https://github.com/tpatel0107/Pewlett-Hackard-Analysis/blob/main/Query%20Mentorship%20Program.PNG
+![GitHub Graph](https://github.com/tpatel0107/Pewlett-Hackard-Analysis/blob/main/Query%20Mentorship%20Program.PNG?raw=true)
